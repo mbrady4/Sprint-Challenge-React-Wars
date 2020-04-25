@@ -1,8 +1,24 @@
-.App {
-  text-align: center;
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+
+  padding-left: 10px;
+  padding-right: 10px;
+
+  max-width:600px; 
+
+  background: rgba(32, 125, 196, 0.9);
+  border-radius: 8px;
+
+  color: #fff;
+  font-family: 'Impact', 'Charcoal', 'sans-serif';
 }
-.Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+
+.character {
+
+}
+
+.list {
+  padding-bottom: 1rem;
 }
 /* write your parent styles in here for your App.js */
